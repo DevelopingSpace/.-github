@@ -14,11 +14,4 @@ Maintainers - Have worked on our projects in the past and stuck around to review
 
 ### 📖 Contributing ###
 
-Oh no. We need a separate doc for this... and we don't have it... yet!
-
-### 🖥️ Technologies ###
-
-These are the most common technologies we use in our projects:
-- Typescript
-- React
-- ??? add more pls
+Each of our repositores has their own CONTRIBUTING.md and README.md. Please follow them before getting into the project!
